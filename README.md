@@ -1,6 +1,6 @@
 # Sobre mim:
 
-- 👋 Olá, meu nome é @Duda-Martins.
+- 👋 Olá, meu nome é Maria Eduarda.
 
 ### 👀 Eu estou aprendendo a programar:
 
