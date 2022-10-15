@@ -2,7 +2,7 @@
 
 - 👋 Olá, meu nome é Maria Eduarda.
 
-### 👀 Eu estou aprendendo a programar.
+## :woman_technologist: Eu estou aprendendo a programar.
 #### Já sei programar em:
 
   ![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
@@ -17,7 +17,7 @@
   ![Python](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue)
 
 
-#### Linguagens mais usadas:
+## Linguagens mais usadas:
 
 ![Minha atividade](https://github-readme-stats.vercel.app/api/top-langs/?username=duda-martins)
 
