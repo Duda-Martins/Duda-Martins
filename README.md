@@ -2,7 +2,7 @@
 
 - 👋 Olá, meu nome é Maria Eduarda.
 
-## :woman_technologist: Eu estou aprendendo a programar.
+## :woman_technologist: Eu estou programando.
 #### Já sei programar em:
 
 
