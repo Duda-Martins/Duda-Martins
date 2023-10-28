@@ -5,6 +5,8 @@
 
 <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=Duda-Martins&count_private=true&show_icons=true&theme=radical" /> </p>
 
+![Currículo](https://github.com/Duda-Martins/Duda-Martins/assets/87785945/dcd17795-974c-45af-85f1-bc4158810dae)
+
 ## :woman_technologist: Eu estou programando.
 #### Já sei programar em:
 
