@@ -1,4 +1,4 @@
-# Maria Eduarda
+# Maria Eduarda Martins Rodrigues
 ## Sobre mim:
 
 - 👋 Olá, meu nome é Maria Eduarda.
