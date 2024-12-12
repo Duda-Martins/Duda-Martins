@@ -1,14 +1,18 @@
 # Maria Eduarda Martins Rodrigues
+
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=Duda-Martins&count_private=true&show_icons=true&theme=radical" /> </p>
+
 ## Sobre mim:
 
 - 👋 Olá, meu nome é Maria Eduarda;
 - :woman_technologist: Estou iniciando a minha carreira em Tech;
+- 💼 Up to work - procurando oportunidades de primeiro emprego;
 - 📚 Estou no 3° semestre do curso de Análise e desenvolvimento de sistemas;
 - 🌱 Atualmente estou aprendendo Git e versionamento;
 - 😄 Pronomes: Ela/dela;
 - ⚡ Curiosidade: Amo estudar e estou sempre em constante aprendizado.
-- ![Status](https://img.shields.io/badge/UpWork-6FDA44?style=for-the-badge&logo=Upwork&logoColor=white)
-- ![Feedback](https://img.shields.io/badge/Ask%20me-anything-1abc9c.svg)
+- 📝 Idiomas: **Inglês** - Nível B2 e **Libras** - Nível Básico.
+
 
 ## Contatos:
 
@@ -17,7 +21,6 @@
 <a href = "https://wa.me/5541988059024text=Ol%C3%A1!%20Vi%20o%20seu%20perfil%20no%20GitHub%20e%20queria%20saber%20mais%20sobre%20voc%C3%AA."><img loading="lazy" src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" target="_blank"></a>
 </div>
 
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=Duda-Martins&count_private=true&show_icons=true&theme=radical" /> </p>
 
 ## :woman_technologist: Eu estou programando.
 #### Já sei programar em:
