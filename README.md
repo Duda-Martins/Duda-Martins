@@ -14,9 +14,7 @@
 
 <div>
 <a href = "mailto:mrodrigues.mariaeduarda@gmail.com"><img loading="lazy" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-<a href = "https://wa.me/5541988059024text=Ol%C3%A1%20%F0%9F%91%8B!%20Vi%20o%20seu%20perfil%20no%20GitHub%20e%20queria%20saber%20mais%20sobre%20voc%C3%AA%20%F0%9F%92%BB"><img loading="lazy" src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" target="_blank"></a>
-
-
+<a href = "https://wa.me/5541988059024text=Ol%C3%A1!%20Vi%20o%20seu%20perfil%20no%20GitHub%20e%20queria%20saber%20mais%20sobre%20voc%C3%AA."><img loading="lazy" src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" target="_blank"></a>
 </div>
 
 <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=Duda-Martins&count_private=true&show_icons=true&theme=radical" /> </p>
