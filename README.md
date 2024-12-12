@@ -8,10 +8,10 @@
 - :woman_technologist: Estou iniciando a minha carreira em Tech;
 - 💼 Up to work - procurando oportunidades de primeiro emprego;
 - 📚 Estou no 3° semestre do curso de Análise e desenvolvimento de sistemas;
+- 📝 Idiomas: **Inglês** - Nível B2 e **Libras** - Nível Básico;
+- ⚡ Curiosidade: Amo estudar e estou sempre em constante aprendizado;
 - 🌱 Atualmente estou aprendendo Git e versionamento;
-- 😄 Pronomes: Ela/dela;
-- ⚡ Curiosidade: Amo estudar e estou sempre em constante aprendizado.
-- 📝 Idiomas: **Inglês** - Nível B2 e **Libras** - Nível Básico.
+- 😄 Pronomes: Ela/dela.
 
 
 ## Contatos:
