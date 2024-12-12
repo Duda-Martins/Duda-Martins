@@ -1,7 +1,9 @@
 # Maria Eduarda Martins Rodrigues
 ## Sobre mim:
 
-- 👋 Olá, meu nome é Maria Eduarda.
+- 👋 Olá, meu nome é Maria Eduarda;
+- :woman_technologist: Estou iniciando a minha carreira em Tech;
+- 📚 Estou no 3 semestre do curso de Análise e desenvolvimento de sistemas.
 
 <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=Duda-Martins&count_private=true&show_icons=true&theme=radical" /> </p>
 
