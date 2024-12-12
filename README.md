@@ -3,7 +3,7 @@
 
 - 👋 Olá, meu nome é Maria Eduarda;
 - :woman_technologist: Estou iniciando a minha carreira em Tech;
-- 📚 Estou no 3 semestre do curso de Análise e desenvolvimento de sistemas.
+- 📚 Estou no 3° semestre do curso de Análise e desenvolvimento de sistemas.
 
 <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=Duda-Martins&count_private=true&show_icons=true&theme=radical" /> </p>
 
@@ -11,7 +11,7 @@
 #### Já sei programar em:
 
 
-  ![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white) ________ ![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white) ________ ![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E) ________ ![Python](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue)
+  ![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white) ________ ![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white) ________ ![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E) ________ ![Python](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue) ________ ![C](https://img.shields.io/badge/C-E34F26?style=for-the-badge&logo=C&logoColor=white)
 
 
 ## Linguagens mais usadas:
