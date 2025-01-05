@@ -10,7 +10,7 @@
 - 📚 Estou no 3° semestre do curso de Análise e desenvolvimento de sistemas;
 - 📝 Idiomas: **Inglês** - Nível B2 e **Libras** - Nível Básico;
 - ⚡ Curiosidade: Amo estudar e estou sempre em constante aprendizado;
-- 🌱 Atualmente estou aprendendo Git e versionamento;
+- 🌱 Atualmente estou aprendendo: JavaScript e Node.js;
 - 😄 Pronomes: Ela/dela.
 
 
