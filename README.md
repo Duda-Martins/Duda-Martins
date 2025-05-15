@@ -20,6 +20,29 @@ Sou uma desenvolvedora em formação, movida pela paixão por aprender e resolve
 
 ---
 
+## 📫 Contato
+
+<div>
+  <a href="mailto:mrodrigues.mariaeduarda@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
+  </a>
+  <a href="https://wa.me/5541988059024?text=Ol%C3%A1!%20Vi%20o%20seu%20perfil%20no%20GitHub%20e%20gostaria%20de%20saber%20mais%20sobre%20voc%C3%AA.">
+    <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp" />
+  </a>
+  <a href="https://www.linkedin.com/in/maria-eduarda-martins-rodrigues-564335349/">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+</div>
+
+---
+
+## 🤝 Vamos nos conectar!
+
+Estou sempre aberta a colaborações, mentorias e novos aprendizados.  
+Se você trabalha com tecnologia, QA ou tem projetos interessantes, **me chama!**
+
+---
+
 ## 🧪 Projetos em Destaque
 
 - 🔍 [Estágio QA - Compass UOL](https://github.com/Duda-Martins/QA-estagio-compass-uol): Projetos desenvolvidos durante o processo seletivo para estágio em Qualidade de Software, com foco em testes manuais e Postman.
@@ -85,26 +108,3 @@ Tenho me dedicado à área de **Qualidade de Software**, com foco em processos d
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Duda-Martins&layout=compact&theme=radical" alt="Linguagens Mais Usadas" />
 </p>
-
----
-
-## 📫 Contato
-
-<div>
-  <a href="mailto:mrodrigues.mariaeduarda@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
-  </a>
-  <a href="https://wa.me/5541988059024?text=Ol%C3%A1!%20Vi%20o%20seu%20perfil%20no%20GitHub%20e%20gostaria%20de%20saber%20mais%20sobre%20voc%C3%AA.">
-    <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp" />
-  </a>
-  <a href="https://www.linkedin.com/in/maria-eduarda-martins-rodrigues-564335349/">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-</div>
-
----
-
-## 🤝 Vamos nos conectar!
-
-Estou sempre aberta a colaborações, mentorias e novos aprendizados.  
-Se você trabalha com tecnologia, QA ou tem projetos interessantes, **me chama!**
