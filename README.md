@@ -97,10 +97,4 @@ Tenho me dedicado à área de **Qualidade de Software**, com foco em processos d
 ![Confluence](https://img.shields.io/badge/Confluence-172B4D?style=for-the-badge&logo=confluence&logoColor=white) 
 ![Jira](https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white)
 
----
-
-## 📊 Estatísticas do GitHub
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Duda-Martins&layout=compact&theme=radical" alt="Linguagens Mais Usadas" />
-</p>
+[//]: # (---## 📊 Estatísticas do GitHub<p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Duda-Martins&layout=compact&theme=radical" alt="Linguagens Mais Usadas" /></p>)
