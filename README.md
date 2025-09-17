@@ -1,9 +1,5 @@
 # Maria Eduarda Martins Rodrigues
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Duda-Martins&count_private=true&show_icons=true&theme=radical" alt="GitHub Stats" />
-</p>
-
 ## 👩‍💻 Sobre Mim
 
 Sou uma desenvolvedora em formação, movida pela paixão por aprender e resolver desafios reais com tecnologia. Encaro problemas com curiosidade e pensamento crítico, sempre buscando escrever códigos limpos e criar testes que realmente façam a diferença. Valorizo a colaboração em equipes multidisciplinares e me esforço para contribuir com entregas que superem expectativas — com foco em inovação, qualidade e melhoria contínua.
